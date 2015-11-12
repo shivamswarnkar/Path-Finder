@@ -7,7 +7,7 @@ Please save all ten files in the same folder, and then run the main.py to play t
 
 ***********************************************
 Game Info:
-  Name: Find Path
+  Name: Path-Finder (Real Name: Find Path)
   Owner: Shivam Swarnkar
 ***********************************************
 ===============================================
@@ -21,4 +21,4 @@ the goal point. You have 3 lives to use. And
 you will loose lives if you either touch any object or you waste time. 
 ===============================================
    
- © Shivam Swarnkar
+ Â© Shivam Swarnkar
